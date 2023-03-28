@@ -21,7 +21,6 @@ public class ComparatorController {
             return "EQUAL";
         }
     }
-
     @GetMapping
     public String compare(@RequestParam String left,
                           @RequestParam String right,
