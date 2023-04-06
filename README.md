@@ -26,13 +26,7 @@ My first server repository contains files created to practice Spring.
 - [global controller advice ](https://github.com/klimkowskaewa/my-first-server/blob/master/my-first-server/src/main/java/myfirstserver/myfirstserver/GlobalControllerAdvice.java): @RestController, @ExceptionHandler
 
 
-- [MyException ](https://github.com/klimkowskaewa/my-first-server/blob/master/my-first-server/src/main/java/myfirstserver/myfirstserver/MyException.java)
-
-
 - [my first controller](https://github.com/klimkowskaewa/my-first-server/blob/master/my-first-server/src/main/java/myfirstserver/myfirstserver/MyFirstController.java): @RestController, @RequestMapping, @GetMapping, @PathVariable, @RequestParam, @RequestHeader, @RequestBody, @PostMapping
-
-
-- [my first server application](https://github.com/klimkowskaewa/my-first-server/blob/master/my-first-server/src/main/java/myfirstserver/myfirstserver/MyFirstServerApplication.java)
 
 
 - [tax controller](https://github.com/klimkowskaewa/my-first-server/blob/master/my-first-server/src/main/java/myfirstserver/myfirstserver/TaxController.java): @RestController, @RequestMapping, @GetMapping, @RequestParam 
