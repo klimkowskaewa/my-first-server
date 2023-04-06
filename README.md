@@ -2,7 +2,7 @@
 
 My first server repository contains files created to practice Spring. 
 
-- [crud](https://github.com/klimkowskaewa/my-first-server/tree/master/my-first-server/src/main/java/myfirstserver/myfirstserver/crud):@RestController, @RequestMapping, @Autowired, @GetMapping, @PostMapping, @PutMapping, @DeleteMapping
+- [crud](https://github.com/klimkowskaewa/my-first-server/tree/master/my-first-server/src/main/java/myfirstserver/myfirstserver/crud): @RestController, @RequestMapping, @Autowired, @GetMapping, @PostMapping, @PutMapping, @DeleteMapping
 
 
 - [santa](https://github.com/klimkowskaewa/my-first-server/tree/master/my-first-server/src/main/java/myfirstserver/myfirstserver/santa): @Component, @Override, @Configuration, @Bean, @Qualifier
